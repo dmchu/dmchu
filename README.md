@@ -40,8 +40,9 @@ Currently renewing CKS and working through the AWS DevOps Professional material.
 
 ### Elsewhere
 
-`platform-patterns` — five patterns from the work above, each with the decision record behind
-it, including the option that lost. Publishing shortly.
+- [LinkedIn](https://www.linkedin.com/in/dmitry-chuveev/)
+- `platform-patterns` — five patterns from the work above, each with the decision record behind
+  it, including the option that lost. Publishing shortly.
 
 <sub>The repositories below are from an earlier career in test automation and are kept for
 history.</sub>
